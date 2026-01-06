@@ -1,6 +1,6 @@
 🟥 Extremely easy to use:
 
-1️⃣ Professional subtitle plugin in beta version 5.8.
+1️⃣ Professional subtitle plugin in beta version 6.2.
 
 2️⃣ Supports subtitle files stored on your device or imported from online subtitle websites.
 
@@ -9,7 +9,7 @@
 4️⃣ Added tools for precise synchronization, fast-forwarding, and rewinding of the video and current events.
 
 ## image project
-![image here](https://k.top4top.io/p_3651ccd4y1.jpg)
+![image here](https://g.top4top.io/p_3658iatsm1.jpg)
 
 ![image here](https://l.top4top.io/p_3651a1t0j2.jpg)
 
